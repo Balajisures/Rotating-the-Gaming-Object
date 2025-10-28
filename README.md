@@ -4,8 +4,8 @@
 To develop a 3D application for rotating the gaming objects in unity.
 ## Algorithm:
 
-## Developed by: Pradeep Kumar R
-## Register number: 212223220077
+## Developed by: BALAJI S
+## Register number: 212223040024
 
 ### Step1:
 Start
